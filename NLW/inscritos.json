@@ -1,0 +1,52 @@
+{ "name": "Tony Stark", "email": "tony.stark@starkindustries.com" }
+{ "name": "Steve Rogers", "email": "steve.rogers@avengers.com" }
+{ "name": "Natasha Romanoff", "email": "natasha.romanoff@shield.com" }
+{ "name": "Thor Odinson", "email": "thor.odinson@asgard.com" }
+{ "name": "Bruce Banner", "email": "bruce.banner@avengers.com" }
+{ "name": "Wanda Maximoff", "email": "wanda.maximoff@avengers.com" }
+{ "name": "Stephen Strange", "email": "stephen.strange@sanctumsanctorum.com" }
+{ "name": "Scott Lang", "email": "scott.lang@pymtech.com" }
+{ "name": "Carol Danvers", "email": "carol.danvers@starforce.com" }
+{ "name": "Sam Wilson", "email": "sam.wilson@avengers.com" }
+{ "name": "Rocket Raccoon", "email": "rocket.raccoon@guardians.com" }
+{ "name": "Groot", "email": "groot@iamgroot.com" }
+{ "name": "Peter Quill", "email": "peter.quill@guardians.com" }
+{ "name": "Gamora", "email": "gamora@guardians.com" }
+{ "name": "Drax", "email": "drax@guardians.com" }
+{ "name": "Loki", "email": "loki@asgard.com" }
+{ "name": "Nick Fury", "email": "nick.fury@shield.com" }
+{ "name": "Happy Hogan", "email": "happy.hogan@starkindustries.com" }
+{ "name": "Pepper Potts", "email": "pepper.potts@starkindustries.com" }
+{ "name": "Shuri", "email": "shuri@wakanda.com" }
+{ "name": "T'Challa", "email": "tchalla@wakanda.com" }
+{ "name": "Peter Parker", "email": "peter.parker@dailybugle.com" }
+{ "name": "Vision", "email": "vision@avengers.com" }
+{ "name": "Bucky Barnes", "email": "bucky.barnes@hydra.com" }
+{ "name": "Howard Stark", "email": "howard.stark@starkindustries.com" }
+{ "name": "Odin", "email": "odin@asgard.com" }
+{ "name": "Jane Foster", "email": "jane.foster@astrophysics.com" }
+{ "name": "Shang-Chi", "email": "shang.chi@tenrings.com" }
+{ "name": "Moon Knight", "email": "moon.knight@egypt.com" }
+{ "name": "Kate Bishop", "email": "kate.bishop@archery.com" }
+{ "name": "Kamala Khan", "email": "kamala.khan@avengers.com" }
+{ "name": "Miles Morales", "email": "miles.morales@dailybugle.com" }
+{ "name": "Hercules", "email": "hercules@olympus.com" }
+{ "name": "Goofy", "email": "goofy@disney.com" }
+{ "name": "Mickey Mouse", "email": "mickey.mouse@disney.com" }
+{ "name": "Minnie Mouse", "email": "minnie.mouse@disney.com" }
+{ "name": "Donald Duck", "email": "donald.duck@disney.com" }
+{ "name": "Daisy Duck", "email": "daisy.duck@disney.com" }
+{ "name": "Pluto", "email": "pluto@disney.com" }
+{ "name": "Scrooge McDuck", "email": "scrooge.mcduck@disney.com" }
+{ "name": "Elsa", "email": "elsa@arendelle.com" }
+{ "name": "Anna", "email": "anna@arendelle.com" }
+{ "name": "Simba", "email": "simba@priderock.com" }
+{ "name": "Mufasa", "email": "mufasa@priderock.com" }
+{ "name": "Nala", "email": "nala@priderock.com" }
+{ "name": "Aladdin", "email": "aladdin@agrabah.com" }
+{ "name": "Jasmine", "email": "jasmine@agrabah.com" }
+{ "name": "Genie", "email": "genie@lamp.com" }
+{ "name": "Ariel", "email": "ariel@atlantica.com" }
+{ "name": "Mulan", "email": "mulan@chinadynasty.com" }
+{ "name": "Rapunzel", "email": "rapunzel@corona.com" }
+{ "name": "Moana", "email": "moana@motunui.com" }
